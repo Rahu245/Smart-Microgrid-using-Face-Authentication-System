@@ -4,8 +4,8 @@ Smart Microgrid Using Face Authentication System
 This repository contains the hardware design, source code, and documentation for the project developed as part of CSE7107 – Capstone Project.
 
 Team Members
-Y R Rahul \n
-Darshan Kumar C \n
+Y R Rahul 
+Darshan Kumar C 
 J Monesh 
 
 Guide:
